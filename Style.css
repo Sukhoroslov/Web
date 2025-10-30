@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(160, 210, 233);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+}
+
+.form-row {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centers the label-input pair horizontally */
+    margin-bottom: 15px;
+}
+
+.form-row label {
+    display: inline-block;
+    width: 120px; /* Fixed width for labels to align them */
+    text-align: left; /* Labels left-aligned */
+    margin-right: 10px;
+    margin-top: 0; /* Remove extra top margin */
+}
+
+.form-row input[type="text"],
+.form-row input[type="email"],
+.form-row input[type="tel"] {
+    flex: 1;
+    max-width: 200px; /* Limits input width for centering feel */
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.radio-group {
+    margin: 15px 0;
+    text-align: center; /* Keeps radio group centered */
+}
+
+.radio-group label {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+input[type="submit"] {
+    margin-top: 15px;
+    padding: 8px 16px;
+    background-color: #fff;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #f0f0f0;
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="Style.css">
+        <title>Adopt a Pet</title>
+    </head>
+    <body>
+        <form id="petForm">
+            <h2>Adopt a Pet</h2>
+        
+            <div class="form-row">
+                <label for="lastName">Last Name:</label>
+                <input type="text" id="lastName" name="lastname" required />
+            </div>
+        
+            <div class="form-row">
+                <label for="firstNames">First Name(s):</label>
+                <input type="text" id="firstNames" name="firstnames" required />
+            </div>
+        
+            <div class="form-row">
+                <label for="email">eMail:</label>
+                <input type="email" id="email" name="email" required />
+            </div>
+        
+            <div class="form-row">
+                <label for="city">City:</label>
+                <input type="text" id="city" name="city" required />
+            </div>
+        
+            <div class="form-row">
+                <label for="tel">tel:</label>
+                <input type="tel" id="tel" name="tel" required />
+            </div>
+        
+            <div class="radio-group">
+                <p>What pet interests you?</p>
+                <label><input type="radio" name="pet" value="Dog / puppy" required /> Dog / puppy</label><br/>
+                <label><input type="radio" name="pet" value="Cat / kitten" /> Cat / kitten</label><br/>
+                <label><input type="radio" name="pet" value="bird" /> berd</label>
+            </div>
+      
+            <input type="button" value="Submit" onclick="display()" />
+        </form>
+
+        <p id="response"></p>
+
+        <script src="myscript.js"></script>
+    </body>
+</html>
