@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Album</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Artist:</th>
+            <th><%=album.artist%></th>
+        </tr>
+        <tr>
+            <th>Genre:</th>
+            <th><%=album.genre%></th>
+        </tr>
+        <tr>
+            <th>Songs:</th>
+            <td>
+                <%for(let song of album.songs) {%>
+                    <li><%=song%></li>
+                <%}%>
+                </td>
+        </tr>
+    </table>
+</body>
+</html>

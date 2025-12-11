@@ -1,0 +1,209 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "genre": "Pop / R&B",
+      "songs": [
+        "Wanna Be Startin' Somethin'",
+        "Baby Be Mine",
+        "The Girl Is Mine",
+        "Thriller",
+        "Beat It",
+        "Billie Jean",
+        "Human Nature",
+        "P.Y.T. (Pretty Young Thing)",
+        "The Lady in My Life"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "year": 1973,
+      "genre": "Progressive Rock",
+      "songs": [
+        "Speak to Me",
+        "Breathe (In the Air)",
+        "On the Run",
+        "Time",
+        "The Great Gig in the Sky",
+        "Money",
+        "Us and Them",
+        "Any Colour You Like",
+        "Brain Damage",
+        "Eclipse"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "A Night at the Opera",
+      "artist": "Queen",
+      "year": 1975,
+      "genre": "Rock",
+      "songs": [
+        "Death on Two Legs (Dedicated to...)",
+        "Lazing on a Sunday Afternoon",
+        "I'm in Love with My Car",
+        "You're My Best Friend",
+        "'39",
+        "Sweet Lady",
+        "Seaside Rendezvous",
+        "The Prophet's Song",
+        "Love of My Life",
+        "Good Company",
+        "Bohemian Rhapsody",
+        "God Save the Queen"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "year": 1977,
+      "genre": "Pop Rock",
+      "songs": [
+        "Second Hand News",
+        "Dreams",
+        "Never Going Back Again",
+        "Don't Stop",
+        "Go Your Own Way",
+        "Songbird",
+        "The Chain",
+        "You Make Loving Fun",
+        "I Don't Want to Know",
+        "Oh Daddy",
+        "Gold Dust Woman"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "year": 1991,
+      "genre": "Grunge / Alternative Rock",
+      "songs": [
+        "Smells Like Teen Spirit",
+        "In Bloom",
+        "Come as You Are",
+        "Breed",
+        "Lithium",
+        "Polly",
+        "Territorial Pissings",
+        "Drain You",
+        "Lounge Act",
+        "Stay Away",
+        "On a Plain",
+        "Something in the Way"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "year": 1969,
+      "genre": "Rock / Pop",
+      "songs": [
+        "Come Together",
+        "Something",
+        "Maxwell's Silver Hammer",
+        "Oh! Darling",
+        "Octopus's Garden",
+        "I Want You (She's So Heavy)",
+        "Here Comes the Sun",
+        "Because",
+        "You Never Give Me Your Money",
+        "Sun King",
+        "Mean Mr. Mustard",
+        "Polythene Pam",
+        "She Came In Through the Bathroom Window",
+        "Golden Slumbers",
+        "Carry That Weight",
+        "The End",
+        "Her Majesty"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Born in the U.S.A.",
+      "artist": "Bruce Springsteen",
+      "year": 1984,
+      "genre": "Rock",
+      "songs": [
+        "Born in the U.S.A.",
+        "Cover Me",
+        "Darlington County",
+        "Working on the Highway",
+        "Downbound Train",
+        "I'm on Fire",
+        "No Surrender",
+        "Bobby Jean",
+        "I'm Goin' Down",
+        "Glory Days",
+        "Dancing in the Dark",
+        "My Hometown"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Jagged Little Pill",
+      "artist": "Alanis Morissette",
+      "year": 1995,
+      "genre": "Alternative Rock / Pop",
+      "songs": [
+        "All I Really Want",
+        "You Oughta Know",
+        "Perfect",
+        "Hand in My Pocket",
+        "Right Through You",
+        "Forgiven",
+        "You Learn",
+        "Head over Feet",
+        "Mary Jane",
+        "Ironic",
+        "Not the Doctor",
+        "Wake Up"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "year": 2006,
+      "genre": "Soul / Pop",
+      "songs": [
+        "Rehab",
+        "You Know I'm No Good",
+        "Me & Mr. Jones",
+        "Just Friends",
+        "Back to Black",
+        "Love Is a Losing Game",
+        "Tears Dry on Their Own",
+        "Wake Up Alone",
+        "Some Unholy War",
+        "He Can Only Hold Her",
+        "Addicted"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "year": 1976,
+      "genre": "Rock",
+      "songs": [
+        "Hotel California",
+        "New Kid in Town",
+        "Life in the Fast Lane",
+        "Wasted Time",
+        "Wasted Time (Reprise)",
+        "Victim of Love",
+        "Pretty Maids All in a Row",
+        "Try and Love Again",
+        "The Last Resort"
+      ]
+    }
+  ]
+}
